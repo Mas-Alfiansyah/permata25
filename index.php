@@ -27,7 +27,7 @@
     <!-- Daftar Berita Terbaru -->
     <div class="container py-5">
         <h2 class="mb-4">Berita Terbaru</h2>
-        <div class="row g-4">
+        <div class="row g-5">
             <!-- Card 1 -->
             <div class="col-md-9 col-lg-9">
                 <div class="card h-100 shadow-sm">
