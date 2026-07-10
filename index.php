@@ -43,7 +43,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-lg-3">
-                <div class="row g-4">
+                <div class="row g-5">
                     <!-- Card 2 -->
                     <div class="col-md-12 col-lg-12">
                         <div class="card h-100 shadow-sm">
