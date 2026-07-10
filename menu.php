@@ -8,7 +8,7 @@ $hasil = $conn->query($sql);
 $daftar_kategori = [];
 while($kolom = $hasil->fetch_assoc()){
     $daftar_kategori[] = $kolom;
-}
+} 
 // echo "<pre>";
 // print_r($daftar_kategori);
 // die();
