@@ -22,7 +22,7 @@ $nama = [
         "alamat" => "sampang"
     ],
     [
-        "nama" => "Kiki",
+        "nama" => "riski",
         "umur" => 60,
         "alamat" => "Gro'om"
     ],
