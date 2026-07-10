@@ -41,7 +41,7 @@
                         <a href="berita.php" class="btn btn-primary btn-sm">Baca Selengkapnya</a>
                     </div>
                 </div>
-            </div>
+            </div> 
             <div class="col-md-3 col-lg-3">
                 <div class="row g-4">
                     <!-- Card 2 -->
